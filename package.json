@@ -1,0 +1,29 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadbazChedo/Frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadbazChedo/Frontend/issues"
+  },
+  "homepage": "https://github.com/AhmadbazChedo/Frontend#readme",
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0",
+    "@vue/runtime-core": "^3.5.13",
+    "jest": "^29.7.0",
+    "vue": "^3.5.13"
+  },
+  "dependencies": {
+    "vue-template-compiler": "^2.7.16"
+  }
+}
